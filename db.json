@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "text": "Stolni",
+      "day": "Subota",
+      "reminder": true,
+      "id": 3
+    },
+    {
+      "text": "Kosarka ",
+      "day": "Subota",
+      "reminder": false,
+      "id": 4
+    }
+  ]
+}
